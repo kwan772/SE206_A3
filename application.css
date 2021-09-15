@@ -1,0 +1,15 @@
+/* JavaFX CSS */
+.button {
+    -fx-background-color: rgb(118, 152, 216);
+    -fx-font: normal bold 24px 'sans-serif';
+}
+.headerText {
+    -fx-font: normal bold 36px 'sans-serif';
+}
+.subHeaderText {
+    -fx-font: normal bold 24px 'sans-serif';
+    -fx-text-alignment: center;
+}
+.text-field {
+    -fx-font: normal bold 24px 'sans-serif';
+}
